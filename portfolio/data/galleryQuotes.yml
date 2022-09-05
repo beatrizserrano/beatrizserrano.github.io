@@ -1,0 +1,28 @@
+title: "Quotes"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Collection of paintings using watercolors and indian ink.
+pictures:
+  - title: "Lauburu"
+    content: "Watercolors"
+    image: "images/gallery/fulls/lauburu.jpg"
+    thumb: "images/gallery/thumbs/lauburu.jpg"
+    button: "See full image"
+
+  - title: "Never argue with an idiot"
+    content: "Watercolors"
+    image: "images/gallery/fulls/idiot.jpg"
+    thumb: "images/gallery/thumbs/idiot.jpg"
+    button: "See full image"
+
+  - title: "Remember"
+    content: "Indian ink"
+    image: "images/gallery/fulls/remember.png"
+    thumb: "images/gallery/thumbs/remember.png"
+    button: "See full image"
+
+  - title: "Did you try"
+    content: "Watercolors"
+    image: "images/gallery/fulls/did_you.jpg"
+    thumb: "images/gallery/thumbs/did_you.jpg"
+    button: "See full image"

@@ -1,0 +1,47 @@
+title: "Mental States"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Collection of paintings reflecting mental states.
+pictures:
+
+  - title: "Interconnection"
+    content: "Watercolors"
+    image: "images/gallery/fulls/interconnection.jpg"
+    thumb: "images/gallery/thumbs/interconnection.jpg"
+    button: "See full image"
+
+  - title: "Drowning but growing"
+    content: "Watercolors and alcohol"
+    image: "images/gallery/fulls/growing.jpg"
+    thumb: "images/gallery/thumbs/growing.jpg"
+    button: "See full image"
+
+  - title: "Parasite thoughts"
+    content: "Watercolors and indian ink"
+    image: "images/gallery/fulls/parasites.jpg"
+    thumb: "images/gallery/thumbs/parasites.jpg"
+    button: "See full image"
+
+  - title: "So squared"
+    content: "Watercolor pencils"
+    image: "images/gallery/fulls/square.jpg"
+    thumb: "images/gallery/thumbs/square.jpg"
+    button: "See full image"
+
+  - title: "Complexity"
+    content: "Watercolors"
+    image: "images/gallery/fulls/thoughts.jpg"
+    thumb: "images/gallery/thumbs/thoughts.jpg"
+    button: "See full image"
+
+  - title: "When everything is given"
+    content: "Watercolors"
+    image: "images/gallery/fulls/when_everything.png"
+    thumb: "images/gallery/thumbs/when_everything.png"
+    button: "See full image"
+
+  - title: "Communication during pandemic"
+    content: "Watercolors"
+    image: "images/gallery/fulls/communication.jpg"
+    thumb: "images/gallery/thumbs/communication.jpg"
+    button: "See full image"

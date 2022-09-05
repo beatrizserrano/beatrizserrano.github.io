@@ -1,0 +1,53 @@
+title: "Mix Media experiments"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Collection of paintings using mix media.
+pictures:
+  - title: "Too fragile"
+    content: "Watercolors, soda"
+    image: "images/gallery/fulls/fragile.jpg"
+    thumb: "images/gallery/thumbs/fragile.jpg"
+    button: "See full image"
+
+  - title: "Blurry DNA"
+    content: "Watercolors, indian ink, curry powder"
+    image: "images/gallery/fulls/curry.jpg"
+    thumb: "images/gallery/thumbs/curry.jpg"
+    button: "See full image"
+
+  - title: "Weak heart"
+    content: "Watercolors, soda"
+    image: "images/gallery/fulls/weak_heart.jpg"
+    thumb: "images/gallery/thumbs/weak_heart.jpg"
+    button: "See full image"
+
+  - title: "Forest"
+    content: "Watercolors"
+    image: "images/gallery/fulls/forest.jpg"
+    thumb: "images/gallery/thumbs/forest.jpg"
+    button: "See full image"
+
+  - title: "Branches"
+    content: "Pen"
+    image: "images/gallery/fulls/branches.png"
+    thumb: "images/gallery/thumbs/branches.png"
+    button: "See full image"
+    
+  - title: "Nebulous"
+    content: "Watercolors, hair mousse"
+    image: "images/gallery/fulls/nebulous.jpg"
+    thumb: "images/gallery/thumbs/nebulous.jpg"
+    button: "See full image"
+
+  - title: "Pentagram"
+    content: "Watercolors, salt, indian ink"
+    image: "images/gallery/fulls/pentagram.jpg"
+    thumb: "images/gallery/thumbs/pentagram.jpg"
+    button: "See full image"
+
+  - title: "Phi"
+    content: "Watercolors, indian ink"
+    image: "images/gallery/fulls/phi.png"
+    thumb: "images/gallery/thumbs/phi.png"
+    button: "See full image"
+

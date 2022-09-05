@@ -1,0 +1,29 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Beatriz Serrano-Solano"
+theme = "hugo-story"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/beatrizserrano/"
+  twitter = "https://twitter.com/BSerranoSolano"
+#  instagram = "https://instagram.com"
+  linkedin = "https://www.linkedin.com/in/beatriz-serrano/"
+#  telegram = "https://telegram.org"

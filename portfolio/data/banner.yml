@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title: "Beatriz Serrano-Solano"
+subtitle: |
+  Paintings & Drawings
+content: |   
+   <a target="_blank" href="https://twitter.com/BSerranoSolano" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a>
+   <a target="_blank" href="https://www.linkedin.com/in/beatriz-serrano/" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a>
+   <a target="_blank" href="https://github.com/beatrizserrano" class="icon brands style2 fa-github"><span class="label">Github</span></a>
+image: "images/banner.jpg"
+

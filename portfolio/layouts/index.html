@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "gallery" site.Data.galleryWatercolors }}
+	{{ partial "gallery" site.Data.galleryMentalStates }}
+	{{ partial "gallery" site.Data.galleryQuotes }}
+	{{ partial "gallery" site.Data.galleryExperimental }}
+	{{ partial "elements" . }}
+<!-- 	{{ partial "spotlight" site.Data.spotlight1 }}
+	{{ partial "items" site.Data.items }}
+	{{ partial "elements" . }}
+	{{ partial "elements_reference" . }} -->
+	{{ partial "template/footer" . }}
+
+{{ end }}

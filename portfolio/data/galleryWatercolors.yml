@@ -1,0 +1,84 @@
+title: "Watercolors"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Collection of paintings using watercolors.
+pictures:
+  - title: "Pangea"
+    content: "Watercolors"
+    image: "images/gallery/fulls/pangea.jpg"
+    thumb: "images/gallery/thumbs/pangea.jpg"
+    button: "See full image"
+
+  - title: "Ahmed"
+    content: "Watercolors"
+    image: "images/gallery/fulls/ahmed.png"
+    thumb: "images/gallery/thumbs/ahmed.png"
+    button: "See full image"
+
+  - title: "Pills"
+    content: "Watercolors"
+    image: "images/gallery/fulls/pills.jpg"
+    thumb: "images/gallery/thumbs/pills.jpg"
+    button: "See full image"
+
+  - title: "DNA"
+    content: "Watercolors"
+    image: "images/gallery/fulls/dna.jpg"
+    thumb: "images/gallery/thumbs/dna.jpg"
+    button: "See full image"
+
+  - title: "Africa"
+    content: "Watercolors"
+    image: "images/gallery/fulls/africa.jpg"
+    thumb: "images/gallery/thumbs/africa.jpg"
+    button: "See full image"
+
+  - title: "Hourglass"
+    content: "Watercolors"
+    image: "images/gallery/fulls/hourglass.jpg"
+    thumb: "images/gallery/thumbs/hourglass.jpg"
+    button: "See full image"
+
+  - title: "Harry Haller"
+    content: "Watercolors"
+    image: "images/gallery/fulls/harry_haller.jpg"
+    thumb: "images/gallery/thumbs/harry_haller.jpg"
+    button: "See full image"
+
+  - title: "Twist"
+    content: "Watercolors"
+    image: "images/gallery/fulls/twist.jpg"
+    thumb: "images/gallery/thumbs/twist.jpg"
+    button: "See full image"
+
+  - title: "Spiral"
+    content: "Watercolors"
+    image: "images/gallery/fulls/spiral.jpg"
+    thumb: "images/gallery/thumbs/spiral.jpg"
+    button: "See full image"
+
+  - title: "Veins"
+    content: "Watercolors"
+    image: "images/gallery/fulls/veins.jpg"
+    thumb: "images/gallery/thumbs/veins.jpg"
+    button: "See full image"
+
+  - title: "Radiography"
+    content: "Watercolors"
+    image: "images/gallery/fulls/radiography.png"
+    thumb: "images/gallery/thumbs/radiography.png"
+    button: "See full image"
+
+  - title: "Slow in the morning"
+    content: "Watercolors"
+    image: "images/gallery/fulls/slow_morning.jpg"
+    thumb: "images/gallery/thumbs/slow_morning.jpg"
+    button: "See full image"
+
+  - title: "Anonymous"
+    content: "Watercolors"
+    image: "images/gallery/fulls/anonymous.jpg"
+    thumb: "images/gallery/thumbs/anonymous.jpg"
+    button: "See full image"
+
+
