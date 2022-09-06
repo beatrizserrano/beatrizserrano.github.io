@@ -51,3 +51,9 @@ pictures:
     thumb: "images/gallery/thumbs/phi.png"
     button: "See full image"
 
+  - title: "Soft lion"
+    content: "Watercolor pencils, tea"
+    image: "images/gallery/fulls/soft_lion.jpg"
+    thumb: "images/gallery/thumbs/soft_lion.jpg"
+    button: "See full image"
+

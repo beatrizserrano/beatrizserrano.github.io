@@ -9,6 +9,12 @@ pictures:
     thumb: "images/gallery/thumbs/lauburu.jpg"
     button: "See full image"
 
+  - title: "The fun of forgetting is that you can remember"
+    content: "Indian ink"
+    image: "images/gallery/fulls/forgetting.png"
+    thumb: "images/gallery/thumbs/forgetting.png"
+    button: "See full image"
+    
   - title: "Never argue with an idiot"
     content: "Watercolors"
     image: "images/gallery/fulls/idiot.jpg"
@@ -26,3 +32,10 @@ pictures:
     image: "images/gallery/fulls/did_you.jpg"
     thumb: "images/gallery/thumbs/did_you.jpg"
     button: "See full image"
+
+  - title: "Ask for forgiveness"
+    content: "Indian ink"
+    image: "images/gallery/fulls/ask_forgiveness.jpg"
+    thumb: "images/gallery/thumbs/ask_forgiveness.jpg"
+    button: "See full image"
+

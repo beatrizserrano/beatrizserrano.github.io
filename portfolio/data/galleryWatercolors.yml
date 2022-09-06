@@ -81,4 +81,8 @@ pictures:
     thumb: "images/gallery/thumbs/anonymous.jpg"
     button: "See full image"
 
-
+  - title: "Finding the true south"
+    content: "Watercolors, indian ink"
+    image: "images/gallery/fulls/finding_true_south.png"
+    thumb: "images/gallery/thumbs/finding_true_south.png"
+    button: "See full image"
