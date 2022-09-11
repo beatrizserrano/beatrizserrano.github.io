@@ -86,3 +86,21 @@ pictures:
     image: "images/gallery/fulls/finding_true_south.png"
     thumb: "images/gallery/thumbs/finding_true_south.png"
     button: "See full image"
+
+  - title: "Darkness"
+    content: "Watercolors"
+    image: "images/gallery/fulls/darkness.jpg"
+    thumb: "images/gallery/thumbs/darkness.jpg"
+    button: "See full image"
+
+  - title: "Snake"
+    content: "Watercolors"
+    image: "images/gallery/fulls/snake.jpg"
+    thumb: "images/gallery/thumbs/snake.jpg"
+    button: "See full image"
+
+  - title: "Time goes by so slowly"
+    content: "Watercolors"
+    image: "images/gallery/fulls/time_goes_by.jpg"
+    thumb: "images/gallery/thumbs/time_goes_by.jpg"
+    button: "See full image"

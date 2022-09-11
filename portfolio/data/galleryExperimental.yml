@@ -46,7 +46,7 @@ pictures:
     button: "See full image"
 
   - title: "Phi"
-    content: "Watercolors, indian ink"
+    content: "Watercolors, indian ink, digital"
     image: "images/gallery/fulls/phi.png"
     thumb: "images/gallery/thumbs/phi.png"
     button: "See full image"
@@ -57,3 +57,14 @@ pictures:
     thumb: "images/gallery/thumbs/soft_lion.jpg"
     button: "See full image"
 
+  - title: "Yin"
+    content: "Watercolor pencils"
+    image: "images/gallery/fulls/yin.jpg"
+    thumb: "images/gallery/thumbs/yin.jpg"
+    button: "See full image"
+
+  - title: "Yang"
+    content: "Watercolor pencils"
+    image: "images/gallery/fulls/yang.jpg"
+    thumb: "images/gallery/thumbs/yang.jpg"
+    button: "See full image"
