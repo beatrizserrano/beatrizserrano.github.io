@@ -3,7 +3,7 @@
 ## -----------------------------------------------
 
 title = "Beatriz Serrano-Solano"
-theme = "hugo-story"
+theme = ["hugo-story"]
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
@@ -27,3 +27,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 #  instagram = "https://instagram.com"
   linkedin = "https://www.linkedin.com/in/beatriz-serrano/"
 #  telegram = "https://telegram.org"
+
