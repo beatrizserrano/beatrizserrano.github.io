@@ -88,7 +88,7 @@ pictures:
     thumb: "images/gallery/thumbs/bleeding.jpg"
     button: "See full image"
 
-  - title: "Only this bit"
+  - title: "Only this bit left"
     content: "Watercolors"
     image: "images/gallery/fulls/only_this_bit.jpg"
     thumb: "images/gallery/thumbs/only_this_bit.jpg"

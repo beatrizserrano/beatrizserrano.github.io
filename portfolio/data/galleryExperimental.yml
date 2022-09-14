@@ -68,3 +68,9 @@ pictures:
     image: "images/gallery/fulls/yang.jpg"
     thumb: "images/gallery/thumbs/yang.jpg"
     button: "See full image"
+
+  - title: "Connection"
+    content: "Watercolor pencils"
+    image: "images/gallery/fulls/connection.jpg"
+    thumb: "images/gallery/thumbs/connection.jpg"
+    button: "See full image"
