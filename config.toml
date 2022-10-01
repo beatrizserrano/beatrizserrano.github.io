@@ -2,6 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
+baseURL = 'https://beatrizserrano.github.io/'
 title = "Beatriz Serrano-Solano"
 theme = ["hugo-story"]
 
