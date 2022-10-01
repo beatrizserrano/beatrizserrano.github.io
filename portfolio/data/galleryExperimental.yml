@@ -74,3 +74,9 @@ pictures:
     image: "images/gallery/fulls/connection.jpg"
     thumb: "images/gallery/thumbs/connection.jpg"
     button: "See full image"
+
+  - title: "Evolution"
+    content: "Watercolor pencils"
+    image: "images/gallery/fulls/evolution.jpg"
+    thumb: "images/gallery/thumbs/evolution.jpg"
+    button: "See full image"
